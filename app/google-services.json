@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631694757504",
+    "firebase_url": "https://makemoney-5716e.firebaseio.com",
+    "project_id": "makemoney-5716e",
+    "storage_bucket": "makemoney-5716e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631694757504:android:6454baed52b8a072",
+        "android_client_info": {
+          "package_name": "com.appsinventiv.makemoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631694757504-i42ukpl5fkfhdpk9m6sprkvj0cihig2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsinventiv.makemoney",
+            "certificate_hash": "e375d2d9e70b75ea5a2c017473c6ecc23973d258"
+          }
+        },
+        {
+          "client_id": "631694757504-hh331opg4c4qmdfi7jnqo2le80t650vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1w3isYaMKcZiWfm8CDqXPNdcxkU4Nms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631694757504-hh331opg4c4qmdfi7jnqo2le80t650vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
